@@ -6,7 +6,7 @@
     "alsoKnownAs": [
         "did:webvh:QmYJbxLskQtNkRr94iBx5reuqZsKu1aQUr9EbXJ2E6hmEY:sandbox.ayra.network"
     ],
-    "services": [
+    "service": [
         {
             "id": "did:web:sandbox.ayra.network#TRQP",
             "type": "TRQP",
